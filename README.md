@@ -11,23 +11,3 @@ Shortest Path Finder is a minor project that helps find the optimal path from a 
 2. CSS
 3. JavaScript
 4. React
-# Getting Started
-To run the Shortest Path Finder locally, follow these steps:
-
-1. Clone the repository: git clone https://github.com/samridhi-sahu/shortest-path-finder.git
-2. Open the project directory: cd shortest-path-finder
-3. Install the dependencies: npm install
-4. Start the development server: npm start
-
-Open your web browser and navigate to http://localhost:3000.
-
-Select a source and destination location on the grid.
-
-Choose an algorithm from the options available (A*, BFS, DFS, or Dijkstra's algorithm).
-
-Click the "Find Path" button to visualize the shortest path-finding process.
-
-Once the path is found, the application will display the path length and the order of nodes visited.
-
-
-![Screenshot](sarthii.png)
